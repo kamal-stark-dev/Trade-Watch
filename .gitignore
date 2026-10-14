@@ -7,3 +7,4 @@ data/*
 run/*
 !run/.gitkeep
 .venv/
+!notes.md
